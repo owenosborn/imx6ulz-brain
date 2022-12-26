@@ -1,0 +1,2563 @@
+580917204465336
+PV-EC-AIC-001
+HTSSOP-32-EP
+
+
+0
+66
+33
+PV-EC-AIC-001
+HTSSOP-44-EP
+
+
+0
+73
+45
+PV-EC-AIC-001
+HTSSOP-48-EP
+TSSOP48: plastic thin shrink small outline package; 48 leads; body width 6.1 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot362-1_po.pdf)
+SSOP 0.5
+0
+109
+49
+PV-EC-AIC-001
+LFCSP-72
+
+
+0
+77
+73
+PV-EC-AIC-001
+LQFP-48-7x7
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+PV-EC-AIC-001
+QFN-28-5x5-EP
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+55
+29
+PV-EC-AIC-001
+S-PVQFN-N14
+Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf
+Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad
+0
+19
+15
+PV-EC-AIC-001
+SOIC-8-150
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+PV-EC-AIC-001
+SOIC-14-3.9x8.7-P1.27
+14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+14
+14
+PV-EC-AIC-001
+TQFP-48-7x7
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+PV-EC-AIC-001
+TQFP-48-7x7-EP
+48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+53
+49
+PV-EC-AIC-001
+TSSOP-14
+TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+14
+14
+PV-EC-AIC-001
+TSSOP-28-P0.65
+TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)
+SSOP 0.65
+0
+28
+28
+PV-EC-AIC-001
+TSSOP-30-P0.5
+TSSOP38: plastic thin shrink small outline package; 38 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
+SSOP 0.5
+0
+30
+30
+PV-EC-AIC-001
+VQFN-32-5x5-EP
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+36
+33
+PV-EC-ALU-001
+5.5x5.5x5
+SMT capacitor, aluminium electrolytic, 5x5.3
+
+0
+2
+2
+PV-EC-ALU-001
+6.3x5.3x5
+SMT capacitor, aluminium electrolytic, 6.3x5.3
+
+0
+2
+2
+PV-EC-ALU-001
+6.3x7.7
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
+0
+2
+2
+PV-EC-ALU-001
+8x10
+SMT capacitor, aluminium electrolytic, 8x10
+
+0
+2
+2
+PV-EC-ALU-001
+12.5x12.5x10
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+PV-EC-ALU-001
+16x17x16.5
+
+
+0
+2
+2
+PV-EC-ALU-001
+2917
+
+
+0
+0
+0
+PV-EC-ALU-001
+EIA-7343-19
+
+capacitor polymer
+0
+2
+2
+PV-EC-ALU-002
+CP_Radial_D8.0mm_P5_L20_flat
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+PV-EC-ALU-002
+CP_Radial_D10.0mm_P5_L25_flat
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+PV-EC-ALU-002
+alucap_16x31.5
+
+
+0
+2
+2
+PV-EC-ALU-002
+alucap_16x31.5_flat
+
+
+0
+2
+2
+PV-EC-ALU-002
+alucap_18x35
+
+
+0
+2
+2
+PV-EC-ALU-002
+alucap_18x35_flat_NL
+
+
+0
+2
+2
+PV-EC-ALU-002
+alucap_18x35_flat_NR
+
+
+0
+2
+2
+PV-EC-ALU-002
+alucap_bipol_radial_8x11_P3.5
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+PV-EC-ALU-002
+alucap_bipol_radial_10x16_P5
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
+0
+2
+2
+PV-EC-BRD-001
+9771050360
+
+
+0
+9
+1
+PV-EC-BRD-001
+CE1
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+CE2
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+CE3
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+CE4
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+CE5
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+CE6
+CE marking
+Logo CE certification
+0
+0
+0
+PV-EC-BRD-001
+FCC1
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+FCC2
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+FCC3
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+FCC4
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+FCC5
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+FCC6
+FCC marking
+Logo FCC certification
+0
+0
+0
+PV-EC-BRD-001
+Fiducial_1mm
+Circular Fiducial, 1mm bare copper top; 2.54mm keepout
+marker
+0
+1
+1
+PV-EC-BRD-001
+ROHS1
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+ROHS2
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+ROHS3
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+ROHS4
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+ROHS5
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+ROHS6
+Restriction of Hazardous Substances Directive Logo
+Logo RoHS
+0
+0
+0
+PV-EC-BRD-001
+SolderJumper_1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
+solder jumper open
+0
+6
+2
+PV-EC-BRD-001
+TP_10
+
+
+0
+1
+1
+PV-EC-BRD-001
+TP_20
+
+
+0
+1
+1
+PV-EC-BRD-001
+WEEE1
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-001
+WEEE2
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-001
+WEEE3
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-001
+WEEE4
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-001
+WEEE5
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-001
+WEEE6
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE
+0
+0
+0
+PV-EC-BRD-002
+2.2mm_drill
+
+
+0
+0
+0
+PV-EC-BRD-002
+6x2_oval_mill
+
+
+0
+0
+0
+PV-EC-BRD-002
+KS-7695
+
+
+0
+4
+1
+PV-EC-BRD-002
+MH_2.1_M2
+
+
+0
+0
+0
+PV-EC-BRD-002
+MH_2.7_PTH_M2.5_Pad_Via
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+9
+1
+PV-EC-BRD-002
+MH_3.2_M3
+
+
+0
+0
+0
+PV-EC-BRD-002
+MH_3.2_PTH_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+PV-EC-BRD-002
+breakaway
+
+
+0
+0
+0
+PV-EC-BRD-002
+breakaway-3mm
+
+
+0
+0
+0
+PV-EC-BRD-002
+breakaway-3x4mm
+
+
+0
+0
+0
+PV-EC-BRD-002
+breakaway-3x4mm-double
+
+
+0
+0
+0
+PV-EC-BRD-002
+breakaway-doube
+
+
+0
+0
+0
+PV-EC-BRD-002
+ec-frame-40mm
+
+
+0
+2
+0
+PV-EC-BRD-002
+ec-frame-60mm
+
+
+0
+2
+0
+PV-EC-BRD-002
+ec-frame-70mm
+
+
+0
+2
+0
+PV-EC-BRD-002
+mini-PCIe_Combo
+
+
+0
+69
+51
+PV-EC-BTN-001
+7914S-1-050E
+
+
+0
+8
+2
+PV-EC-BTN-001
+A6S-4104-PH
+
+
+0
+8
+8
+PV-EC-BTN-001
+EF2-NU
+
+EF2-NU EE2-NU
+0
+8
+8
+PV-EC-BTN-001
+EVQ-9P701P
+
+
+0
+6
+2
+PV-EC-BTN-001
+JS202011SCQN
+
+
+0
+6
+6
+PV-EC-BTN-001
+PEC11S-9215K-H0015
+
+
+0
+25
+6
+PV-EC-BTN-002
+1-1825027-4
+
+
+0
+4
+4
+PV-EC-BTN-002
+431256031736
+
+
+0
+4
+4
+PV-EC-BTN-002
+EC21A
+
+
+0
+5
+4
+PV-EC-BTN-002
+PEC09-2120K-T0012
+
+
+0
+5
+5
+PV-EC-BTN-002
+PEC16-2015F-SX
+
+
+0
+7
+6
+PV-EC-BTN-002
+TL53HF160Q
+
+
+0
+8
+5
+PV-EC-CAP-001
+0201
+
+
+0
+2
+2
+PV-EC-CAP-001
+0402
+Capacitor SMD 0402, reflow soldering, small FP
+capacitor 0402
+0
+2
+2
+PV-EC-CAP-001
+0508
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+PV-EC-CAP-001
+0603
+Capacitor SMD 0603, reflow soldering, small FP
+capacitor 0603
+0
+2
+2
+PV-EC-CAP-001
+0805
+Capacitor SMD 0805, reflow soldering
+capacitor 0805
+0
+2
+2
+PV-EC-CAP-001
+1206
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+PV-EC-CAP-001
+1210
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+PV-EC-CAP-001
+2220
+
+
+0
+2
+2
+PV-EC-CLK-001
+10L-MSOP
+10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.5
+0
+10
+10
+PV-EC-CLK-001
+CRY_2.5x2
+
+
+0
+4
+3
+PV-EC-CLK-001
+CRY_2x1.2
+
+
+0
+2
+2
+PV-EC-CLK-001
+CRY_2x1.6
+
+
+0
+4
+3
+PV-EC-CLK-001
+CRY_3.2x1.5
+
+
+0
+2
+2
+PV-EC-CLK-001
+CRY_3.2x2.5
+
+
+0
+4
+3
+PV-EC-CLK-001
+CRY_5x3.2
+
+
+0
+4
+3
+PV-EC-CLK-001
+OSC_5x3.2
+
+
+0
+4
+4
+PV-EC-CLK-001
+OSC_5x7.5x2.5
+
+
+0
+4
+4
+PV-EC-CLK-001
+QFN-16-3x3-EP1.75x1.75
+QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+26
+17
+PV-EC-CLK-001
+QFN-20-4x4-EP
+20-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+24
+21
+PV-EC-CLK-001
+QFN-20-4x4mm-EP2.7x2.7
+QFN, 20 Pin (https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+26
+21
+PV-EC-CON-001
+4-1734839-0
+
+
+0
+42
+41
+PV-EC-CON-001
+4xSMDWIRE
+
+
+0
+4
+4
+PV-EC-CON-001
+5-1734592-0
+FPC - ZIF - 50 B/C
+
+0
+52
+51
+PV-EC-CON-001
+5-1734839-0
+
+
+0
+52
+51
+PV-EC-CON-001
+35RASMT2BHNTRX
+
+
+0
+3
+3
+PV-EC-CON-001
+2908-05WB-MG
+
+
+0
+12
+12
+PV-EC-CON-001
+12401X
+
+
+0
+28
+25
+PV-EC-CON-001
+47151-0001
+
+
+0
+23
+20
+PV-EC-CON-001
+47309-3351
+
+
+0
+12
+11
+PV-EC-CON-001
+47571-0001
+
+
+0
+13
+13
+PV-EC-CON-001
+87583-2010BLF
+
+
+0
+6
+5
+PV-EC-CON-001
+104031-0811
+
+
+0
+14
+11
+PV-EC-CON-001
+500901-0801
+
+
+0
+12
+9
+PV-EC-CON-001
+501951-5010
+
+
+0
+54
+51
+PV-EC-CON-001
+1734592-6
+FPC - ZIF - 6 B/C
+
+0
+8
+7
+PV-EC-CON-001
+1734839-5
+
+
+0
+7
+6
+PV-EC-CON-001
+1734839-6
+
+
+0
+8
+6
+PV-EC-CON-001
+1759503-1
+
+
+0
+54
+53
+PV-EC-CON-001
+2199230-4
+
+
+0
+78
+68
+PV-EC-CON-001
+10029449-111RLF
+
+
+0
+23
+20
+PV-EC-CON-001
+10118193-0001LF
+
+
+0
+11
+6
+PV-EC-CON-001
+10144517-044802LF
+
+
+0
+40
+40
+PV-EC-CON-001
+10144518-044802LF
+
+
+0
+40
+40
+PV-EC-CON-001
+10144518-084802LF
+
+
+0
+80
+80
+PV-EC-CON-001
+629104190121
+
+
+0
+16
+5
+PV-EC-CON-001
+FCR684204X
+
+
+0
+8
+8
+PV-EC-CON-001
+JXD6-1100NL
+
+
+0
+22
+9
+PV-EC-CON-001
+M20-7910342R
+
+
+0
+3
+3
+PV-EC-CON-001
+M55-7001642R
+
+
+0
+28
+17
+PV-EC-CON-001
+M55-7002042R
+
+
+0
+32
+21
+PV-EC-CON-001
+M55-7011642R
+
+
+0
+20
+17
+PV-EC-CON-001
+M55-7021642R
+
+
+0
+20
+17
+PV-EC-CON-001
+PH_1x20_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 1x20, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x20 2.54mm single row style1 pin1 left
+0
+20
+20
+PV-EC-CON-001
+PH_2x06_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x06, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x06 2.54mm double row
+0
+12
+12
+PV-EC-CON-001
+PH_2x10_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x10, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.54mm double row
+0
+20
+20
+PV-EC-CON-001
+PH_2x11_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x11, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x11 2.54mm double row
+0
+22
+22
+PV-EC-CON-001
+PH_2x12_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x12, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x12 2.54mm double row
+0
+24
+24
+PV-EC-CON-001
+PH_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x20, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x20 2.54mm double row
+0
+40
+40
+PV-EC-CON-001
+PJ-002AH-SMT-TR
+
+
+0
+12
+3
+PV-EC-CON-001
+PJ-036AH-SMT-TR
+
+
+0
+27
+3
+PV-EC-CON-001
+PJ-081AH
+
+
+0
+5
+4
+PV-EC-CON-001
+PS_2x06_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x06, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x06 2.54mm double row
+0
+12
+12
+PV-EC-CON-001
+PV-MCP-OPT-001-001
+
+
+0
+30
+30
+PV-EC-CON-001
+S2B-PH-SM4-TB
+JST-PH - 2mm pitch - side entry - 2 pin
+
+0
+8
+3
+PV-EC-CON-001
+S4B-PH-SM4-TB
+JST-PH - 2mm pitch - side entry - 4 pin
+
+0
+10
+5
+PV-EC-CON-001
+SJ-2523-SMT-TR
+
+TRS, 2.5 mm
+0
+4
+4
+PV-EC-CON-001
+SJ1-3553NG
+
+
+0
+3
+3
+PV-EC-CON-001
+SJ1-42534-SMT-TR
+
+
+0
+7
+6
+PV-EC-CON-001
+SWD_JTAG_SMD
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+PV-EC-CON-001
+USB4105-GF-A
+
+
+0
+16
+13
+PV-EC-CON-002
+1-1634508-0
+
+
+0
+4
+3
+PV-EC-CON-002
+08C2-1X1T-03
+
+
+0
+31
+19
+PV-EC-CON-002
+35RASMT2BHNTRX
+
+
+0
+3
+3
+PV-EC-CON-002
+161-4218-E
+
+
+0
+4
+4
+PV-EC-CON-002
+2000-1-2-41-00-BK
+http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf
+
+0
+23
+20
+PV-EC-CON-002
+48204-0001
+
+
+0
+8
+5
+PV-EC-CON-002
+73725-0110BLF
+
+
+0
+8
+5
+PV-EC-CON-002
+1757242
+
+
+0
+2
+2
+PV-EC-CON-002
+1954935
+
+
+0
+4
+4
+PV-EC-CON-002
+ARJE-0032
+
+
+0
+20
+15
+PV-EC-CON-002
+B2P-VH
+
+
+0
+2
+2
+PV-EC-CON-002
+BARREL_JACK
+DC Barrel Jack
+Power Jack
+0
+3
+3
+PV-EC-CON-002
+CUI_SJ1-3523N
+
+
+0
+3
+3
+PV-EC-CON-002
+FC6842135TR
+
+
+0
+10
+7
+PV-EC-CON-002
+FCR684205X
+
+
+0
+5
+5
+PV-EC-CON-002
+FCR684206X
+
+
+0
+5
+5
+PV-EC-CON-002
+HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
+HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
+HDMI Contact Technology Type A
+0
+23
+20
+PV-EC-CON-002
+J1B1211CCD
+
+
+0
+14
+13
+PV-EC-CON-002
+L8BE-1G1T-BFH
+
+
+0
+20
+17
+PV-EC-CON-002
+NC3FAH-0
+
+
+0
+3
+3
+PV-EC-CON-002
+NC3MAH
+
+
+0
+4
+4
+PV-EC-CON-002
+NMJ6HFD2
+
+
+0
+6
+6
+PV-EC-CON-002
+PH_2x5x2.54_H_SHROUDED
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+PV-EC-CON-002
+PJRAN1X1U02AUX
+
+
+0
+4
+3
+PV-EC-CON-002
+PJRAN1X1U03AUX
+
+
+0
+4
+3
+PV-EC-CON-002
+PJRAN1X1U04AUX
+
+
+0
+4
+3
+PV-EC-CON-002
+PJRAS2X1S01AUX
+
+
+0
+4
+4
+PV-EC-CON-002
+POGO_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+1
+1
+PV-EC-CON-002
+POGO_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+PV-EC-CON-002
+POGO_2x3_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+6
+6
+PV-EC-CON-002
+PSG01550
+
+
+0
+3
+3
+PV-EC-CON-002
+PV-MCP-003-001
+
+
+0
+4
+4
+PV-EC-CON-002
+PinHeader_1x2_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+PV-EC-CON-002
+PinHeader_1x6_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+PV-EC-CON-002
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+PV-EC-CON-002
+PinHeader_1x12_P2.54mm_Vertical
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+PV-EC-CON-002
+PinHeader_2x2_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+4
+4
+PV-EC-CON-002
+PinHeader_2x3_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+6
+6
+PV-EC-CON-002
+PinHeader_2x4_P2.54mm_Vertical
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+PV-EC-CON-002
+PinHeader_2x5_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+PV-EC-CON-002
+PinHeader_2x10_P2.54mm_Vertical
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+PV-EC-CON-002
+PinHeader_2x10_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x10, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.54mm double row
+0
+20
+20
+PV-EC-CON-002
+PinHeader_2x20_P2.54mm_Vertical
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+PV-EC-CON-002
+PinHeader_2x20_P2.54mm_Vertical_SPRING
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+PV-EC-CON-002
+PinSocket_2x20_P2.54mm_Vertical_UD
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+PV-EC-CON-002
+Q14354
+
+
+0
+5
+5
+PV-EC-CON-002
+RB1-125BAG1A
+
+
+0
+14
+13
+PV-EC-CON-002
+RCA-BNC-COMBO
+
+
+0
+6
+2
+PV-EC-CON-002
+RCJ-04X
+
+
+0
+2
+2
+PV-EC-CON-002
+RCJ-22XX
+
+
+0
+3
+3
+PV-EC-CON-002
+RJHSE538X
+mod. jack, ethernet, 8P8C, RJ45 connector, 2 leds, shielded
+RJHSE538X 8P8C RJ45 ethernet jack
+0
+14
+14
+PV-EC-CON-002
+RJMG2310228A0ER
+
+
+0
+31
+24
+PV-EC-CON-002
+SJ1-3535NG
+
+
+0
+5
+5
+PV-EC-CON-002
+SJD1-3201-54
+
+
+0
+11
+9
+PV-EC-CON-002
+STX-4235-3-3N
+
+
+0
+6
+6
+PV-EC-CON-002
+USBA-DUAL-STACKED
+
+
+0
+12
+9
+PV-EC-CON-002
+USB_B_OST_USB-B1HSxx_Horizontal
+USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf
+USB-B receptacle horizontal through-hole
+0
+6
+5
+PV-EC-DIO-001
+DO-214AC-2
+
+
+0
+2
+2
+PV-EC-DIO-001
+SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+PV-EC-DIO-001
+SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+PV-EC-DIO-001
+SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+PV-EC-DIO-001
+SOD-323F
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
+0
+2
+2
+PV-EC-DIO-001
+SOD-323HE
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323HE
+0
+2
+2
+PV-EC-DIO-001
+SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+PV-EC-FIL-001
+CM2021Y330R-10
+
+
+0
+4
+4
+PV-EC-FIL-001
+DLW21H
+
+
+0
+4
+4
+PV-EC-FIL-001
+WE-SL5-HC
+
+
+0
+4
+4
+PV-EC-FLM-002
+WCAP-FTBE-15
+
+
+0
+2
+2
+PV-EC-FLM-002
+WCAP-FTBP-18x7x13_P15
+
+
+0
+2
+2
+PV-EC-FLM-002
+WIMA_7.2x5x10
+
+
+0
+2
+2
+PV-EC-FLM-002
+WIMA_7.2x7.2x13
+
+
+0
+2
+2
+PV-EC-IND-001
+0402
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+PV-EC-IND-001
+0603
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+PV-EC-IND-001
+0603_FB
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+PV-EC-IND-001
+0805
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+PV-EC-IND-001
+1008
+
+
+0
+2
+2
+PV-EC-IND-001
+1050
+
+
+0
+2
+2
+PV-EC-IND-001
+1206
+Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+PV-EC-IND-001
+1212
+
+
+0
+2
+2
+PV-EC-IND-001
+1515
+
+
+0
+2
+2
+PV-EC-IND-001
+2512
+
+
+0
+2
+2
+PV-EC-IND-001
+3015
+
+
+0
+2
+2
+PV-EC-IND-001
+4028
+
+
+0
+2
+2
+PV-EC-IND-001
+5045
+
+
+0
+2
+2
+PV-EC-IND-001
+HA4158-EL
+
+
+0
+4
+4
+PV-EC-IND-001
+SRN6045TA
+
+
+0
+2
+2
+PV-EC-IND-001
+UA801X-AL
+
+
+0
+4
+4
+PV-EC-IND-001
+VLS-201610
+
+
+0
+2
+2
+PV-EC-IND-002
+JA4575-BL
+
+
+0
+4
+4
+PV-EC-LOG-001
+MSOP
+
+
+0
+10
+10
+PV-EC-LOG-001
+SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+PV-EC-LOG-001
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+PV-EC-LOG-001
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+PV-EC-LOG-001
+VQFN-14-3.5x3.5-EP
+24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+20
+15
+PV-EC-LOG-001
+VQFN-20-4.5x3.5-EP
+24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+26
+21
+PV-EC-LOG-001
+VSSOP-8-3x2-P0.5
+VSSOP-8 3.0 x 2.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf
+VSSOP-8 3.0 x 2.0
+0
+8
+8
+PV-EC-LOG-001
+polyvection_40x3
+
+
+0
+0
+0
+PV-EC-LOG-001
+pv-logo
+
+
+0
+0
+0
+PV-EC-LOG-001
+voltastream
+
+
+0
+0
+0
+PV-EC-LOG-001
+voltastream-38.1x2.9
+
+
+0
+0
+0
+PV-EC-LOG-001
+voltastream_40x3
+
+
+0
+0
+0
+PV-EC-MCU-001
+QFN-48_7x7-EP
+QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
+49
+PV-EC-MCU-001
+QFN-64-9x9-EP
+64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+69
+65
+PV-EC-MCU-001
+TQFP-64_10x10-EP5.5x5.5
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] thermal pad
+QFP 0.5 
+0
+74
+65
+PV-EC-MCU-001
+UFQFPN32
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+36
+33
+PV-EC-MEM-001
+BGA-153-emmc
+
+
+0
+153
+153
+PV-EC-MEM-001
+DFN-8
+DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
+dfn 
+0
+11
+9
+PV-EC-MEM-001
+FBGA_96_DDR3L_Combo
+
+
+0
+96
+96
+PV-EC-MEM-001
+SOIC-8-150
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+PV-EC-MEM-001
+WDFN-8
+DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
+dfn 
+0
+12
+9
+PV-EC-MOD-001
+ESP32-WROOM
+Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
+0
+60
+39
+PV-EC-MOD-001
+ESP32-WROVER
+
+
+0
+64
+39
+PV-EC-MOD-001
+RS9116-CC1
+
+
+0
+155
+155
+PV-EC-MOD-002
+AG9700-THT
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+10
+10
+PV-EC-MOD-002
+PV-PCBA-009-003-B
+
+
+0
+0
+0
+PV-EC-MOD-002
+Teensy35_36
+
+
+0
+86
+86
+PV-EC-MOS-001
+DPAK-3
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+PV-EC-MOS-001
+MSOP-PowerPad-8
+8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+13
+9
+PV-EC-MOS-001
+PG-HSOF-8-1
+
+
+0
+20
+3
+PV-EC-MOS-001
+SO-4_4.4x2.3_1.27
+4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
+SO SOIC 1.27
+0
+4
+4
+PV-EC-MOS-001
+SO-4_4.4x4.5_2.54
+4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf
+SO SOIC 1.27
+0
+4
+4
+PV-EC-MOS-001
+SO-8
+SOIC, 8 Pin (http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx#page=8), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+3
+PV-EC-MOS-001
+SON8-5x6
+
+
+0
+16
+3
+PV-EC-MOS-001
+SOT-23-3
+SOT-23, Standard
+SOT-23
+0
+3
+3
+PV-EC-MOS-001
+SOT-23-3-DSG
+SOT-23, Standard
+SOT-23
+0
+3
+3
+PV-EC-MOS-001
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+PV-EC-MOS-001
+SOT-26-6
+
+
+0
+6
+6
+PV-EC-NET-001
+HVSON8
+
+
+0
+10
+9
+PV-EC-NET-001
+QFN-24-4x4-EP
+QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=278), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+38
+25
+PV-EC-NET-001
+QFN-32-5x5-EP
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+36
+33
+PV-EC-NET-001
+QFN-36-6x6-EP
+QFN, 36 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/36L_QFN_6x6_with_3_7x3_7_EP_Punch_Dimpled_4E_C04-0241A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+63
+37
+PV-EC-NET-001
+SSOP-20-3.9x8.7-P0.635
+SSOP20: plastic shrink small outline package; 24 leads; body width 3.9 mm; lead pitch 0.635; (see http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf)
+SSOP 0.635
+0
+20
+20
+PV-EC-NET-001
+XDFN
+
+
+0
+8
+8
+PV-EC-OPT-001
+0603
+LED SMD 0603, reflow soldering, small FP
+capacitor 0603
+0
+2
+2
+PV-EC-OPT-001
+7511C2
+
+
+0
+0
+0
+PV-EC-OPT-001
+APFA3010LSEEZGKQ
+
+
+0
+4
+4
+PV-EC-OPT-001
+DSBGA-12
+
+
+0
+12
+12
+PV-EC-OPT-001
+HEIMDAL
+
+
+0
+4
+4
+PV-EC-OPT-001
+LED-1602-GREEN-SIDE
+LED SMD 1602, SIDE
+LED 1602
+0
+2
+2
+PV-EC-OPT-001
+SLP3-150-200-R
+
+
+0
+0
+0
+PV-EC-OPT-001
+SurfLight-SIDE
+
+
+0
+2
+2
+PV-EC-OPT-001
+TEMT6000
+
+
+0
+3
+3
+PV-EC-OPT-001
+WQFN-24-4x4-EP
+
+
+0
+34
+25
+PV-EC-OPT-002
+1.3-OLED
+
+
+0
+0
+0
+PV-EC-OPT-002
+ER_LCD_2.8_CPT
+
+
+0
+0
+0
+PV-EC-OPT-002
+IPS-LCD_4.3
+
+
+0
+0
+0
+PV-EC-OPT-002
+IR_LED_5mm_Horizontal
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+PV-EC-OPT-002
+MCL039PURGW
+
+
+0
+3
+3
+PV-EC-OPT-002
+RGB-THT-5mm
+
+
+0
+4
+4
+PV-EC-OPT-002
+TLSV5100
+
+
+0
+3
+3
+PV-EC-OPT-002
+VLP-200-R
+
+
+0
+0
+0
+PV-EC-OPT-002
+Vishay_CAST-3pin
+IR Receiver Vishay TSOP-xxxx, CAST package
+IRReceiverVishayTSOP-xxxx CAST
+0
+3
+3
+PV-EC-OPT-002
+Vishay_MINICAST-3pin
+IR Receiver Vishay TSOP-xxxx, MINICAST package
+IR Receiver Vishay TSOP-xxxx MINICAST
+0
+3
+3
+PV-EC-OPT-002
+Vishay_MINIMOLD-3pin
+IR Receiver Vishay TSOP-xxxx, MINIMOLD package
+IR Receiver Vishay TSOP-xxxx MINIMOLD
+0
+3
+3
+PV-EC-OPT-002
+Vishay_MOLD-3pin
+IR Receiver Vishay TSOP-xxxx, MOLD package
+IR Receiver Vishay TSOP-xxxx MOLD
+0
+3
+3
+PV-EC-OSC-001
+OSC_5x7.5x2.5
+
+
+0
+4
+4
+PV-EC-PTN-001
+8-PowerWDFN
+
+
+0
+9
+8
+PV-EC-PTN-001
+0805
+Capacitor SMD 0805, reflow soldering
+capacitor 0805
+0
+2
+2
+PV-EC-PTN-001
+1206
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+PV-EC-PTN-001
+1812
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+PV-EC-PTN-001
+DFN1006-2
+
+
+0
+2
+2
+PV-EC-PTN-001
+DO-214AA-2
+DO-214AA SMB
+DO-214AA SMB
+0
+2
+2
+PV-EC-PTN-001
+DO221-AC
+
+
+0
+2
+2
+PV-EC-PTN-001
+EMIF06-MSD02N16
+
+
+0
+17
+17
+PV-EC-PTN-001
+LLP-2513-13L
+
+
+0
+13
+13
+PV-EC-PTN-001
+SMC
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+PV-EC-PTN-001
+SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+PV-EC-PTN-001
+SOIC-8-EP
+SOIC, 8 Pin (http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx#page=8), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+20
+9
+PV-EC-PTN-001
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+PV-EC-PTN-002
+RV_Disc_D9mm_W5.7mm_P5mm
+Varistor, diameter 9mm, width 5.7mm, pitch 5mm
+varistor SIOV
+0
+2
+2
+PV-EC-PTN-002
+RV_Disc_D12mm_W6mm_P5mm
+Varistor, diameter 9mm, width 5.7mm, pitch 5mm
+varistor SIOV
+0
+2
+2
+PV-EC-PWR-001
+DFN-10-3x3-EP1.65x2.38
+DFN, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+21
+11
+PV-EC-PWR-001
+MAXM17761ALI-
+
+
+0
+31
+31
+PV-EC-PWR-001
+MSOP-PowerPad-8
+8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+PV-EC-PWR-001
+QFM-24
+
+
+0
+48
+24
+PV-EC-PWR-001
+QFN-68-8x8-EP
+
+
+0
+97
+69
+PV-EC-PWR-001
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+PV-EC-PWR-001
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+PV-EC-PWR-001
+VQFN-16-EP
+
+
+0
+30
+17
+PV-EC-PWR-001
+VQFN-24-4x4-EP
+24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+28
+25
+PV-EC-PWR-001
+VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
+VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+VSON
+0
+15
+11
+PV-EC-PWR-001
+VSON-10-2.5x2.5-EP
+VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http://chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument
+VSON 10 Thermal on 11 3x3mm Pitch 0.5mm
+0
+15
+11
+PV-EC-PWR-001
+VSON-12
+
+
+0
+27
+13
+PV-EC-PWR-001
+μSiL-8
+
+
+0
+13
+9
+PV-EC-RES-001
+0402
+Resistor SMD 0402, reflow soldering, small FP
+resistor 0402
+0
+2
+2
+PV-EC-RES-001
+0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+PV-EC-RES-001
+0804
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+PV-EC-RES-001
+0805
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+PV-EC-RES-001
+1206
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+PV-EC-SEN-001
+QFN-16-3x3-MMA8451
+QFN, 16 Pin (https://www.st.com/content/ccc/resource/technical/document/datasheet/4a/50/94/16/69/af/4b/58/DM00047334.pdf/files/DM00047334.pdf/jcr:content/translations/en.DM00047334.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+16
+16
+PV-EC-SHI-001
+2118707-2
+
+
+0
+12
+1
+PV-EC-SHI-001
+2118709-2
+
+
+0
+24
+1
+PV-EC-SHI-001
+2118709-2-SOLID
+
+
+0
+4
+1
+PV-EC-SHI-001
+2118716-2
+
+
+0
+12
+1
+PV-EC-SHI-001
+2118720-2
+
+
+0
+24
+1
+PV-EC-SHI-001
+2118729-2
+
+
+0
+0
+0
+PV-EC-SHI-001
+2118730-2
+
+
+0
+28
+1
+PV-EC-SHI-001
+2118732-2
+
+
+0
+32
+1
+PV-EC-SHI-001
+36003500S
+
+
+0
+0
+0
+PV-EC-SHI-001
+36103505S
+
+
+0
+40
+1
+PV-EC-SOC-001
+FBGA-396-15x15
+
+
+0
+396
+396
+PV-EC-SOC-001
+LFBGA-448-18x18-STM32MP1
+
+
+0
+448
+448
+PV-EC-SOC-001
+MAPBGA-289-14x14
+
+
+0
+289
+289
+PV-EC-SOC-001
+_oldLFBGA-448-18x18-STM32MP1
+
+
+0
+898
+449
+PV-EC-SPK-001
+CMT-0502-75-SMT-TR
+
+
+0
+3
+2
+PV-EC-TRA-001
+DA102JC
+
+
+0
+6
+6
+PV-EC-TRA-001
+PT61017PEL
+
+
+0
+16
+16
