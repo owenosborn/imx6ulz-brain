@@ -2033,7 +2033,7 @@
     (uuid bdb69042-8fa0-4d7e-be19-fed7218cdfd8)
   )
 
-  (symbol (lib_id "PV-EC-PWR-003:GND") (at 33.655 82.55 0)
+  (symbol (lib_id "PV-EC-PWR-003:GND") (at 33.655 82.55 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005cf9ac59)
     (property "Reference" "#PWR01101" (id 0) (at 33.655 88.9 0)
@@ -2051,7 +2051,7 @@
     (pin "1" (uuid 72d726fa-6d90-4503-be2f-6f8a3d8bacb9))
   )
 
-  (symbol (lib_id "PV-EC-CAP-011:PV-EC-CAP-011-220N") (at 33.655 79.375 0)
+  (symbol (lib_id "PV-EC-CAP-011:PV-EC-CAP-011-220N") (at 33.655 79.375 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005cf9ac65)
     (property "Reference" "C501" (id 0) (at 35.9918 78.4606 0)
@@ -2148,7 +2148,7 @@
     (pin "2" (uuid d9305b65-05ec-4b58-9e1d-12260ccab5b4))
   )
 
-  (symbol (lib_id "PV-EC-PWR-003:GND") (at 118.745 77.47 0)
+  (symbol (lib_id "PV-EC-PWR-003:GND") (at 118.745 77.47 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000601f1dd9)
     (property "Reference" "#PWR0122" (id 0) (at 118.745 83.82 0)
@@ -2204,7 +2204,7 @@
     (pin "2" (uuid 54b537a8-62a1-4be1-9498-f1c4ca3d7436))
   )
 
-  (symbol (lib_id "PV-EC-PWR-003:+3.3V_INPUT") (at 252.73 89.535 0) (mirror y)
+  (symbol (lib_id "PV-EC-PWR-003:+3.3V_INPUT") (at 252.73 89.535 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000602820cf)
     (property "Reference" "#PWR010" (id 0) (at 248.285 85.725 0)
@@ -2221,7 +2221,7 @@
     (pin "1" (uuid b80a23dc-70c6-40fa-a1c3-f168abe051ed))
   )
 
-  (symbol (lib_id "PV-EC-CAP-011:PV-EC-CAP-011-220N") (at 252.73 97.155 0) (mirror y)
+  (symbol (lib_id "PV-EC-CAP-011:PV-EC-CAP-011-220N") (at 252.73 97.155 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000602820e4)
     (property "Reference" "C20" (id 0) (at 250.3932 96.2406 0)
@@ -2261,7 +2261,7 @@
     (pin "2" (uuid ab962808-f856-4da6-875e-d33b9b900c1c))
   )
 
-  (symbol (lib_id "PV-EC-PWR-003:GND") (at 252.73 102.87 0) (mirror y)
+  (symbol (lib_id "PV-EC-PWR-003:GND") (at 252.73 102.87 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000602820ea)
     (property "Reference" "#PWR021" (id 0) (at 252.73 109.22 0)

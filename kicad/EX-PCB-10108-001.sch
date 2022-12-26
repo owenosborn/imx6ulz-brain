@@ -1,5 +1,5 @@
-EESchema Schematic File Version 4
-EELAYER 30 0
+EESchema Schematic File Version 5
+EELAYER 36 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -12,67 +12,44 @@ Comment1 "Uses NXP i.MX6ULx core design licensed from PolyVection UG, Germany"
 Comment2 "Organelle 2 Processor board"
 Comment3 ""
 Comment4 "EX-PCB-10108-001 - Schematics"
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
 $EndDescr
-$Sheet
-S 3100 6825 1900 150 
-U 5696FB7F
-F0 "Block_Diagram" 60
-F1 "EX-PCB-10108-001_blockdiagram.sch" 60
-$EndSheet
-Text Notes 8750 2100 0    157  ~ 0
-2\n
-Wire Notes Line
-	8450 625  8450 6400
-Wire Notes Line
-	8450 6400 11050 6400
-Wire Notes Line
-	11050 6400 11050 625 
-Wire Notes Line
-	11050 625  8450 625 
 Wire Notes Line
 	625  625  625  6400
 Wire Notes Line
+	625  1175 8275 1175
+Wire Notes Line
 	625  6400 8275 6400
+Wire Notes Line
+	8275 625  625  625 
 Wire Notes Line
 	8275 6400 8275 625 
 Wire Notes Line
-	8275 625  625  625 
-Text Notes 1825 1050 0    236  ~ 47
-Organelle 2 Processor Board
-Wire Notes Line
-	625  1175 8275 1175
+	8450 625  8450 6400
 Wire Notes Line
 	8450 900  11050 900 
-Text Notes 9450 850  0    118  ~ 0
-CONTENT
-Text Notes 8725 1200 0    47   ~ 0
-Page
-Text Notes 9725 1200 0    47   ~ 0
-Description
+Wire Notes Line
+	8450 6400 11050 6400
+Wire Notes Line
+	8650 1050 8650 6250
+Wire Notes Line
+	8650 1050 10850 1050
 Wire Notes Line
 	8650 1250 10850 1250
 Wire Notes Line
 	8650 1750 10850 1750
 Wire Notes Line
 	8650 2250 10850 2250
-Text Notes 9325 1575 0    118  ~ 0
-COVER PAGE
-Text Notes 8750 1600 0    157  ~ 0
-1\n
 Wire Notes Line
 	8650 2750 10850 2750
 Wire Notes Line
 	8650 3250 10850 3250
 Wire Notes Line
 	8650 3750 10850 3750
-Text Notes 8750 2600 0    157  ~ 0
-3\n
-Text Notes 8750 3100 0    157  ~ 0
-4\n
-Text Notes 8750 3600 0    157  ~ 0
-5\n
-Text Notes 8750 4100 0    157  ~ 0
-6\n
 Wire Notes Line
 	8650 4250 10850 4250
 Wire Notes Line
@@ -82,47 +59,15 @@ Wire Notes Line
 Wire Notes Line
 	8650 5750 10850 5750
 Wire Notes Line
-	8650 1050 10850 1050
-Text Notes 8750 4600 0    157  ~ 0
-7\n
-Text Notes 8750 5100 0    157  ~ 0
-8\n
-Text Notes 8750 5600 0    157  ~ 0
-9\n
-Text Notes 9175 2075 0    118  ~ 0
-BLOCK DIAGRAM
-Text Notes 9125 2575 0    118  ~ 0
-PWR MANAGEMENT
-Text Notes 9400 3075 0    118  ~ 0
-CPU POWER
-Text Notes 9675 3575 0    118  ~ 0
-DRAM
-Text Notes 9400 5100 0    118  ~ 0
-CPU PERI 1
-Text Notes 9375 4075 0    118  ~ 0
-CPU PERI 2
-Text Notes 9325 6100 0    118  ~ 0
-CONNECTORS
-Text Notes 9500 4575 0    118  ~ 0
-STORAGE
-Wire Notes Line
 	8650 6250 10850 6250
 Wire Notes Line
-	8650 1050 8650 6250
+	9000 1050 9000 6250
 Wire Notes Line
 	10850 1050 10850 6250
 Wire Notes Line
-	9000 1050 9000 6250
-$Sheet
-S 3100 7200 1900 150 
-U 6241A349
-F0 "Revision History" 60
-F1 "EX-PCB-10108-001_history.sch" 60
-$EndSheet
-Text Notes 8675 6100 0    157  ~ 0
-10
-Text Notes 9650 5600 0    118  ~ 0
-AUDIO
+	11050 625  8450 625 
+Wire Notes Line
+	11050 6400 11050 625 
 $Bitmap
 Pos 4175 3850
 Scale 1.000000
@@ -3869,4 +3814,64 @@ A9 01 00 00 00 00 08 49 4F 0D 00 00 00 00 40 48 7A 6A 00 00 00 00 00 42 D2 53 03
 AE 42 60 82 
 EndData
 $EndBitmap
+Text Notes 1825 1050 0    236  ~ 47
+Organelle 2 Processor Board
+Text Notes 8675 6100 0    157  ~ 0
+10
+Text Notes 8725 1200 0    47   ~ 0
+Page
+Text Notes 8750 1600 0    157  ~ 0
+1\n
+Text Notes 8750 2100 0    157  ~ 0
+2\n
+Text Notes 8750 2600 0    157  ~ 0
+3\n
+Text Notes 8750 3100 0    157  ~ 0
+4\n
+Text Notes 8750 3600 0    157  ~ 0
+5\n
+Text Notes 8750 4100 0    157  ~ 0
+6\n
+Text Notes 8750 4600 0    157  ~ 0
+7\n
+Text Notes 8750 5100 0    157  ~ 0
+8\n
+Text Notes 8750 5600 0    157  ~ 0
+9\n
+Text Notes 9125 2575 0    118  ~ 0
+PWR MANAGEMENT
+Text Notes 9175 2075 0    118  ~ 0
+BLOCK DIAGRAM
+Text Notes 9325 1575 0    118  ~ 0
+COVER PAGE
+Text Notes 9325 6100 0    118  ~ 0
+CONNECTORS
+Text Notes 9375 4075 0    118  ~ 0
+CPU PERI 2
+Text Notes 9400 3075 0    118  ~ 0
+CPU POWER
+Text Notes 9400 5100 0    118  ~ 0
+CPU PERI 1
+Text Notes 9450 850  0    118  ~ 0
+CONTENT
+Text Notes 9500 4575 0    118  ~ 0
+STORAGE
+Text Notes 9650 5600 0    118  ~ 0
+AUDIO
+Text Notes 9675 3575 0    118  ~ 0
+DRAM
+Text Notes 9725 1200 0    47   ~ 0
+Description
+$Sheet
+S 3100 6825 1900 150 
+U 5696FB7F
+F0 "Block_Diagram" 60
+F1 "EX-PCB-10108-001_blockdiagram.sch" 60
+$EndSheet
+$Sheet
+S 3100 7200 1900 150 
+U 6241A349
+F0 "Revision History" 60
+F1 "EX-PCB-10108-001_history.sch" 60
+$EndSheet
 $EndSCHEMATC

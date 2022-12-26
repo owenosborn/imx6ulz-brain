@@ -2776,7 +2776,7 @@
     (pin "2" (uuid 0d4445c7-8a0d-46b0-93c7-7c5dd998756e))
   )
 
-  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 104.14 138.43 0) (mirror y)
+  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 104.14 138.43 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c37eeb1)
     (property "Reference" "C12" (id 0) (at 101.6 137.795 0)
@@ -2816,7 +2816,7 @@
     (pin "2" (uuid 74936d8a-1d36-412e-8d34-dbf39e66d962))
   )
 
-  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 117.475 138.43 0)
+  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 117.475 138.43 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c37f7d2)
     (property "Reference" "C13" (id 0) (at 120.015 137.795 0)
@@ -3350,7 +3350,7 @@
     (pin "1" (uuid 1159df6c-6629-41f1-a8b5-e0c16ac2435d))
   )
 
-  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 229.87 62.865 0) (mirror y)
+  (symbol (lib_id "PV-EC-CAP-014:PV-EC-CAP-014-18P") (at 229.87 62.865 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061005060)
     (property "Reference" "C66" (id 0) (at 227.5332 61.8998 0)
@@ -3390,7 +3390,7 @@
     (pin "2" (uuid 0ae20a84-6157-4c53-abb1-49e9a43fddea))
   )
 
-  (symbol (lib_id "PV-EC-PWR-003:GND") (at 229.87 66.04 0) (mirror y)
+  (symbol (lib_id "PV-EC-PWR-003:GND") (at 229.87 66.04 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061005069)
     (property "Reference" "#PWR02" (id 0) (at 229.87 72.39 0)
@@ -3408,7 +3408,7 @@
     (pin "1" (uuid df8da694-da12-43e9-b050-9c54dbe4c006))
   )
 
-  (symbol (lib_id "PV-EC-RES-007:PV-EC-RES-007-33R") (at 226.695 59.055 0)
+  (symbol (lib_id "PV-EC-RES-007:PV-EC-RES-007-33R") (at 226.695 59.055 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061005077)
     (property "Reference" "R56" (id 0) (at 226.695 54.8386 0)
