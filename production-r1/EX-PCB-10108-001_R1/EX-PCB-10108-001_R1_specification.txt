@@ -1,0 +1,40 @@
+#######################################################################
+Manufacturing specification of EX-PCB-10108-001_R1 PCB
+#######################################################################
+
+
+- Dimensions: 				75 x 55 mm
+- Material: 				FR4 TG150
+- Copper layers: 			4
+- PCB Thickness:				1.6 mm
+
+- PCB Stack-up:				layer 1 outer copper finished 35 µm
+					prepreg 70 µm
+					prepreg 70 µm
+					layer 2 inner copper 35 µm
+					core FR4 1200 µm
+					layer 3 inner copper 35 µm
+					prepreg 70 µm
+					prepreg 70 µm
+					layer 4 outer copper finished 35 µm
+
+- Impedance controlled: 			yes (defined by stackup)
+- Smallest finished end hole: 		0.2 mm
+- Minimum nominal track width: 		0.1 mm
+- Minimum spacing between tracks: 	0.1 mm
+- Finish: 				ENIG
+- Solder mask application: 		yes - TOP and BOTTOM
+- Solder mask color: 			green
+- Components silkscreen: 			yes - TOP and BOTTOM
+- Components silkscreen color: 		white
+- Cutting: 				milling & V-cut
+
+------------------------------------------------------------------------
+
+- Remarks:
+
+* It is not allowed to include venting on the active PCB area.
+* It is not allowed to insert teardrop on the PCB.
+* It is not allowed to insert copper text.
+
+------------------------------------------------------------------------
